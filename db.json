@@ -15,7 +15,7 @@
     { "id": 8, "name": "111", "clientId": 3 , "admin": "false"},
     { "id": 9, "name": "010", "clientId": 3 , "admin": "false"}
   ],
-  "issue  ": [
+  "issues": [
     { "id": 1, "key":"jup-1", "summary": "malware", "description": "This is bad", "clientId": 1 },
     { "id": 2, "key":"jup-2", "summary": "bruteforce", "description": "This is bad", "clientId": 1 },
     { "id": 3, "key":"jup-3", "summary": "ransomware", "description": "This is bad", "clientId": 1 },
