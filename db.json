@@ -1,8 +1,8 @@
 {
   "clients": [
-    { "id": 1, "name": "ACME Corp", "apiKey": "anfjfylfjf", code="juptier", shortcode="jup"  },
-    { "id": 2, "name": "UPS",  "apiKey": "askjdjfiedjefie", code="orange", shortcode="org"  },
-    { "id": 3, "name": "FedEx",  "apiKey": "asjdfbjegjg", code="princess", shortcode="pri"  }
+    { "id": 1, "name": "ACME Corp", "apiKey": "anfjfylfjf", "code"="juptier", "shortcode"="jup"  },
+    { "id": 2, "name": "UPS",  "apiKey": "askjdjfiedjefie", "code"="orange", "shortcode"="org"  },
+    { "id": 3, "name": "FedEx",  "apiKey": "asjdfbjegjg", "code"="princess", "shortcode"="pri"  }
   ],
   "users": [
     { "id": 1, "name": "Joe", "clientId": 1 },
