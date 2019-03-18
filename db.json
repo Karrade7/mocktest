@@ -26,9 +26,6 @@
     { "id": 8, "key":"pri-2", "summary": "worm", "description": "This is bad", "clientId": 3 },
     { "id": 9, "key":"pri-3", "summary": "sql injection", "description": "This is bad", "clientId": 3 }
   ],
-  "auth": {
-    "name": "user"
-  },
   "reports": [
     { "id": 1, "title": "March Report", "url": "", "clientId": 1 },
     { "id": 2, "title": "April Report", "url": "", "clientId": 1 },
@@ -38,10 +35,6 @@
     { "id": 6, "title": "April Report", "url": "", "clientId": 3 }
   ],
   "events": [
-    { "id": 1, "body": "some comment", "clientId": 1 },
-    { "id": 2, "body": "some comment", "clientId": 1 }
-  ],
-  "intel": [
     { "id": 1, "body": "some comment", "clientId": 1 },
     { "id": 2, "body": "some comment", "clientId": 1 }
   ]
