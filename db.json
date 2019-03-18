@@ -16,15 +16,15 @@
     { "id": 9, "name": "010", "clientId": 3 }
   ],
   "issue  ": [
-    { "id": 1, "key"="jup-1", "summary": "malware", "description": "This is bad", "clientId": 1 },
-    { "id": 2, "key"="jup-2", "summary": "bruteforce", "description": "This is bad", "clientId": 1 },
-    { "id": 3, "key"="jup-3", "summary": "ransomware", "description": "This is bad", "clientId": 1 },
-    { "id": 4, "key"="org-1", "summary": "worm", "description": "This is bad", "clientId": 2 },
-    { "id": 5, "key"="org-2", "summary": "sql injection", "description": "This is bad", "clientId": 2 },
-    { "id": 6, "key"="org-3", "summary": "worm", "description": "This is bad", "clientId": 2 },
-    { "id": 7, "key"="pri-1", "summary": "sql injection", "description": "This is bad", "clientId": 3 },
-    { "id": 8, "key"="pri-2", "summary": "worm", "description": "This is bad", "clientId": 3 },
-    { "id": 9, "key"="pri-3", "summary": "sql injection", "description": "This is bad", "clientId": 3 }
+    { "id": 1, "key":"jup-1", "summary": "malware", "description": "This is bad", "clientId": 1 },
+    { "id": 2, "key":"jup-2", "summary": "bruteforce", "description": "This is bad", "clientId": 1 },
+    { "id": 3, "key":"jup-3", "summary": "ransomware", "description": "This is bad", "clientId": 1 },
+    { "id": 4, "key":"org-1", "summary": "worm", "description": "This is bad", "clientId": 2 },
+    { "id": 5, "key":"org-2", "summary": "sql injection", "description": "This is bad", "clientId": 2 },
+    { "id": 6, "key":"org-3", "summary": "worm", "description": "This is bad", "clientId": 2 },
+    { "id": 7, "key":"pri-1", "summary": "sql injection", "description": "This is bad", "clientId": 3 },
+    { "id": 8, "key":"pri-2", "summary": "worm", "description": "This is bad", "clientId": 3 },
+    { "id": 9, "key":"pri-3", "summary": "sql injection", "description": "This is bad", "clientId": 3 }
   ],
   "auth": {
     "name": "user"
